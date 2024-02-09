@@ -7,7 +7,7 @@ git clone https://github.com/unnamed8243/GP-Python/blob/main/gp-install.py
 cd repository/scripts
 
 # Make the script executable
-chmod +x your_script.py
+chmod +x gp-install.py
 
 # Execute the Python script
-./your_script.py
+./gp-install.py
